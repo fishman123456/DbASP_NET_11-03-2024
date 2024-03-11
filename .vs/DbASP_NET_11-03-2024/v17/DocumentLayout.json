@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\DbASP_NET_11-03-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|d:\\github\\dbasp_net_11-03-2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|d:\\github\\dbasp_net_11-03-2024\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|solutionrelative:db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\DbASP_NET_11-03-2024\\DB\\Migrations\\20240311163338_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB\\Migrations\\20240311163338_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|d:\\github\\dbasp_net_11-03-2024\\db\\transistors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|solutionrelative:db\\transistors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|d:\\github\\dbasp_net_11-03-2024\\apimessage\\commonmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|solutionrelative:apimessage\\commonmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|d:\\github\\dbasp_net_11-03-2024\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|d:\\github\\dbasp_net_11-03-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1025D1F3-7D32-436B-B9F8-38662A2260EE}|DbASP_NET_11-03-2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 253,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240311163338_Init.cs",
+              "DocumentMoniker": "D:\\Github\\DbASP_NET_11-03-2024\\DB\\Migrations\\20240311163338_Init.cs",
+              "RelativeDocumentMoniker": "DB\\Migrations\\20240311163338_Init.cs",
+              "ToolTip": "D:\\Github\\DbASP_NET_11-03-2024\\DB\\Migrations\\20240311163338_Init.cs",
+              "RelativeToolTip": "DB\\Migrations\\20240311163338_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:33:38.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\DbASP_NET_11-03-2024\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Github\\DbASP_NET_11-03-2024\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T16:26:52.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Github\\DbASP_NET_11-03-2024\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Github\\DbASP_NET_11-03-2024\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T16:26:42.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Github\\DbASP_NET_11-03-2024\\DB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DB\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Github\\DbASP_NET_11-03-2024\\DB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DB\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:24:05.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommonMessages.cs",
+              "DocumentMoniker": "D:\\Github\\DbASP_NET_11-03-2024\\ApiMessage\\CommonMessages.cs",
+              "RelativeDocumentMoniker": "ApiMessage\\CommonMessages.cs",
+              "ToolTip": "D:\\Github\\DbASP_NET_11-03-2024\\ApiMessage\\CommonMessages.cs",
+              "RelativeToolTip": "ApiMessage\\CommonMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:21:43.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transistors.cs",
+              "DocumentMoniker": "D:\\Github\\DbASP_NET_11-03-2024\\DB\\Transistors.cs",
+              "RelativeDocumentMoniker": "DB\\Transistors.cs",
+              "ToolTip": "D:\\Github\\DbASP_NET_11-03-2024\\DB\\Transistors.cs",
+              "RelativeToolTip": "DB\\Transistors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:18:30.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DbASP_NET_11-03-2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Github\\DbASP_NET_11-03-2024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:16:33.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

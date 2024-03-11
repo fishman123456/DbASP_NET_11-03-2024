@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DbASP_NET_11-03-2024.props" />
+</Project>
